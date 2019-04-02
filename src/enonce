@@ -1,0 +1,6 @@
+Créer une fabrique de chien / chat / oiseaux.
+Chaque animal possède un cri/bruit.
+
+Créer un programme qui demande à l'utilisateur si il prefère les chiens, les chats ou les oiseaux.
+En fonction de ce que répond l'utilisateur,
+utilisez la fabrique pour créer dynamiquement un objet du bon type.
